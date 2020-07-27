@@ -4,3 +4,11 @@
     box-sizing: border-box;
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
 }
+h1{
+    text-align: center;
+    display: block;
+    color: white;
+    font-size: 70px;
+    background-color: rgb(22, 22, 22);
+    background-position: top;
+  }
