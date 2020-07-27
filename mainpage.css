@@ -13,11 +13,12 @@ h1{
     font-size: 70px;
     background-color:#B7C6C7;
     background-position: top;
+    text-decoration: none;
     width:1980px;
   }
 #P {
     position: absolute;
-    top: 790px;
+    top: 655px;
     left: 311px;
     width: 208px;
     height: 60px;
@@ -26,16 +27,19 @@ h1{
     font: W4 60px/133px Hiragino Sans;
     letter-spacing: 1.8px;
     color: #707070;
+    text-decoration: underline;
+    text-decoration-color: #707070;
     opacity: 1;
 }
 
 #G {
     position: absolute;
-    top: 787px;
+    top: 655px;
     left: 1378px;
     width: 218px;
     height: 60px;
     text-align: center;
+    font-size: 60px;
     font: W4 60px/133px Hiragino Sans;
     letter-spacing: 1.8px;
     color: #707070;
