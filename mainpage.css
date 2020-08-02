@@ -14,10 +14,13 @@ h1{
     background-color:#B7C6C7;
     background-position: top;
     text-decoration: none;
-    width:1980px;
+  }
+
+  #tab a{
+      display: inline-block;
+      text-align: center;
   }
 #P {
-    position: absolute;
     top: 655px;
     left: 311px;
     width: 208px;
@@ -33,7 +36,6 @@ h1{
 }
 
 #G {
-    position: absolute;
     top: 655px;
     left: 1378px;
     width: 218px;
