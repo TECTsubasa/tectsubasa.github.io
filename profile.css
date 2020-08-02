@@ -14,3 +14,10 @@ h1{
     background-position: top;
     text-decoration: none;
   }
+
+  .profile-photo img {
+    display: block; 
+    width: 300px; 
+    height: 300px;
+    border-radius: 50%;
+  }
