@@ -14,10 +14,22 @@ h1{
     background-position: top;
     text-decoration: none;
   }
+  header{
+    text-decoration: none;
+  }
 
   .profile-photo img {
     display: block; 
     width: 300px; 
     height: 300px;
     border-radius: 50%;
+    margin-top: 180px;
+    margin-left: 200px;
   }
+  
+h2{
+    color: #707070;
+    position: center;
+    font-size: 80px;
+    margin-left: 220px;
+}
