@@ -16,34 +16,50 @@ h1{
     text-decoration: none;
   }
 
-  #tab a{
-      display: inline-block;
-      text-align: center;
-  }
-#P {
-    top: 655px;
-    left: 311px;
-    width: 208px;
+#G {
+    position: absolute;
+    top: 550px;
+    right: 500px;
     height: 60px;
-    text-align: center;
+    text-align: left;
     font-size: 60px;
     font: W4 60px/133px Hiragino Sans;
     letter-spacing: 1.8px;
     color: #707070;
-    text-decoration: underline;
-    text-decoration-color: #707070;
     opacity: 1;
 }
 
-#G {
-    top: 655px;
-    left: 1378px;
-    width: 218px;
-    height: 60px;
-    text-align: center;
-    font-size: 60px;
-    font: W4 60px/133px Hiragino Sans;
-    letter-spacing: 1.8px;
+
+  .profile-photo img {
+    display: block; 
+    width: 300px; 
+    height: 300px;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-left: 200px;
+  }
+  
+h2{
     color: #707070;
-    opacity: 1;
+    position: center;
+    font-size: 80px;
+    margin-left: 220px;
+}
+
+ol {
+    max-width: 500px;
+    position:relative;
+    bottom: 400px;
+    left: 600px;
+    list-style-type: none;
+}
+
+ol li{
+    color: #707070;
+    font-size: 30px;
+}
+
+.profile-photo{
+    display: inline-block;
+    padding: 20px;
 }
